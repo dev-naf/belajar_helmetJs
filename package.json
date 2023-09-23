@@ -1,0 +1,11 @@
+{
+  "name": "belajar_helmetjs",
+  "version": "1.0.0",
+  "description": "source code berlajar helmetJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev-naf",
+  "license": "ISC"
+}
